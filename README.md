@@ -190,23 +190,8 @@ The analysis demonstrates how healthcare appointment data can support evidence-b
 •	Variation across service settings
 These insights could support healthcare organisations in improving capacity planning, workforce allocation and service monitoring.
  
-## Project Structure
-```
-nhs-appointments-analysis/
-│
-├── README.md
-│
-├── notebooks/
-│   └── NHS_Appointment_Analysis.ipynb
-│
-└── visualisations/
-    ├── monthly_appointment_trends.png
-    ├── capacity_utilisation.png
-    ├── appointments_by_hcp_type.png
-    ├── appointment_mode_distribution.png
-    └── booking_to_appointment_wait.png
-```
 # Project Structure
+```
 nhs-appointments-analysis/
 │
 ├── README.md
@@ -223,7 +208,7 @@ nhs-appointments-analysis/
 │
 └── reports/
     └── analysis_report.pdf
- 
+ ```
 # Skills Demonstrated
 ## Data Analytics
 •	Data cleaning
