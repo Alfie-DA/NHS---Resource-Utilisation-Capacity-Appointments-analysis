@@ -57,6 +57,7 @@ Across the August 2021–June 2022 period, monthly appointment activity ranged f
 - March 2022	  -  29,595,038
 - September 2021	  -  28,522,501
 - May 2022	  -  27,495,508
+
 November 2021 was the busiest month, with more than 30.4 million appointments.
 The lowest volume was recorded in August 2021, at approximately 23.9 million appointments.
 This represents a difference of approximately 27.5% between the lowest and highest monthly volumes, indicating meaningful variation in demand despite overall consistently high activity.
